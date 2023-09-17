@@ -1,7 +1,7 @@
 <h1> I really should get back to work... Anyway, welcome to my profile! </h1>
 
 
-#### What I know:
+### What I know:
 
 <p align="center">
   <a href="#">
@@ -17,7 +17,7 @@
 
 ---
 
-#### What I'm familiar with:
+### What I'm familiar with:
 
 <p align="center">
   <a href="#">
@@ -28,7 +28,7 @@
 
 ---
 
-#### What I'm learning:
+### What I'm learning:
 
 <p align="center">
   <a href="#">
@@ -40,7 +40,7 @@
 
 ---
 
-####  Contact
+###  Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/adam-dąbkowski/](https://www.linkedin.com/in/adam-szajgin-458277221/">
@@ -53,8 +53,8 @@
 
 ---
 
-#### The stats:
+### The stats:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamGetBackToWork)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamGetBackToWork&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### And in case I don't see ya, Good afternoon, Good evening, and Good night!
