@@ -1,5 +1,5 @@
 <h1> I really should get back to work... Anyway, welcome to my profile! </h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=1098AD&lines=I+really+should+get+back+to+work...+Anyway,+welcome+to+my+profile!)](https://git.io/typing-svg)
 
 ### What I work with:
 
