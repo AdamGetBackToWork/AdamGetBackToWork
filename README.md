@@ -1,5 +1,6 @@
-<h1> I really should get back to work... Anyway, welcome to my profile! </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lato&color=1098AD&lines=I+really+should+get+back+to+work...+Anyway,+welcome+to+my+profile!)](https://git.io/typing-svg)
+<h1> 
+<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=27F732&random=false&width=435&lines=I+really+should+get+back+to+work...+;Anyway%2C+welcome+to+my+profile!" alt="Typing SVG" /></a>
+</h1>
 
 ### What I work with:
 
