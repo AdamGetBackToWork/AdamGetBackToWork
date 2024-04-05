@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=r,java,js,autocad&perline=5" />
+    <img src="https://skillicons.dev/icons?i=r,java,autocad&perline=5" />
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg' height=50 width=50>
   </a>
 </p>
@@ -35,7 +35,7 @@
   <a href="#">
     <img src="https://skillicons.dev/icons?i=docker&perline=4" />
     <img src="https://skillicons.dev/icons?i=tensorflow&perline=4"/>
-    <img src="https://skillicons.dev/icons?i=java,js&perline=5" />
+
   </a>
 </p>
 
