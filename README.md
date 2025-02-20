@@ -13,6 +13,8 @@
     <img src="https://skillicons.dev/icons?i=mysql,html,css,matlab,vscode">
     <br>
     <img src="https://skillicons.dev/icons?i=linux,bash,git,arduino,raspberrypi" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=docker" />
   </a>
 </p></br>
 
