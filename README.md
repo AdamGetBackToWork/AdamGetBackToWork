@@ -46,7 +46,7 @@
 ###  Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/adam-dąbkowski/](https://www.linkedin.com/in/adam-szajgin-458277221/">
+  <a href="https://www.linkedin.com/in/adam-szajgin-458277221/?originalSubdomain=pl">
     <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg' height=50 width=50>
   </a>
   <a href="mailto:adamszagim@gmail.com">
