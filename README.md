@@ -59,6 +59,3 @@
 ### The stats:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdamGetBackToWork&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
- ## And in case I don't see ya, Good afternoon, Good evening, and Good night! 
